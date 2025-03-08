@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="679.04987"
+   height="405.04987"
+   overflow="hidden"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="pipelineSoftware.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.6958333"
+     inkscape:cx="331.99017"
+     inkscape:cy="180.14742"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip0">
+      <rect
+         x="0"
+         y="0"
+         width="960"
+         height="720"
+         id="rect1" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clip0)"
+     id="g38"
+     transform="translate(-147.97506,-179.97506)">
+    <path
+       d="m 420.5,545.5 v -216 h -66 v 216 z"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path2" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(363.465,443)"
+       id="text2">AirSim</text>
+    <path
+       d="m 826.5,584.5 v -404 h -678 v 404 z"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path3" />
+    <path
+       d="m 806.5,566.5 v -352 h -357 v 352 z"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path4" />
+    <path
+       d="m 434.5,566.5 v -275 h -266 v 275 z"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path5" />
+    <path
+       d="m 495.767,299.5 h 266.466 c 13.402,0 24.267,-10.745 24.267,-24 0,-13.255 -10.865,-24 -24.267,-24 H 495.767 c -13.402,0 -24.267,10.745 -24.267,24 0,13.255 10.865,24 24.267,24 z"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path6" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(585.791,281)"
+       id="text8">Linux Kernel<tspan
+   font-size="16px"
+   x="-406.69699"
+   y="26"
+   id="tspan6">Unreal</tspan><tspan
+   font-size="16px"
+   x="-419.073"
+   y="-80"
+   id="tspan7">Hyper</tspan>-<tspan
+   font-size="16px"
+   x="-374.05899"
+   y="-80"
+   id="tspan8">V</tspan></text>
+    <path
+       d="m 206.473,329.5 h 105.054 c 1.642,0 2.973,5.373 2.973,12 0,6.627 -1.331,12 -2.973,12 H 206.473 c -1.642,0 -2.973,-5.373 -2.973,-12 0,-6.627 1.331,-12 2.973,-12 z m 105.054,0 c -1.642,0 -2.974,5.373 -2.974,12 0,6.627 1.332,12 2.974,12"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path8" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(231.171,346)"
+       id="text9">velocity</text>
+    <path
+       d="m 540.5,545.5 v -216 h -66 v 216 z"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path9" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(492.566,443)"
+       id="text10">PX4</text>
+    <path
+       d="m 780.5,545.5 v -216 h -67 v 216 z"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path10" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(729.732,442)"
+       id="text11">QGC</text>
+    <path
+       d="m 206.473,377.5 h 105.054 c 1.642,0 2.973,5.373 2.973,12 0,6.627 -1.331,12 -2.973,12 H 206.473 c -1.642,0 -2.973,-5.373 -2.973,-12 0,-6.627 1.331,-12 2.973,-12 z m 105.054,0 c -1.642,0 -2.974,5.373 -2.974,12 0,6.627 1.332,12 2.974,12"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path11" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(231.254,395)"
+       id="text12">position</text>
+    <path
+       d="m 206.473,425.5 h 105.054 c 1.642,0 2.973,5.373 2.973,12 0,6.627 -1.331,12 -2.973,12 H 206.473 c -1.642,0 -2.973,-5.373 -2.973,-12 0,-6.627 1.331,-12 2.973,-12 z m 105.054,0 c -1.642,0 -2.974,5.373 -2.974,12 0,6.627 1.332,12 2.974,12"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path12" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(217.088,443)"
+       id="text13">vehicle state</text>
+    <path
+       d="m 206.473,474.5 h 105.054 c 1.642,0 2.973,5.373 2.973,12 0,6.627 -1.331,12 -2.973,12 H 206.473 c -1.642,0 -2.973,-5.373 -2.973,-12 0,-6.627 1.331,-12 2.973,-12 z m 105.054,0 c -1.642,0 -2.974,5.373 -2.974,12 0,6.627 1.332,12 2.974,12"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path13" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(213.088,491)"
+       id="text14">scene interact</text>
+    <path
+       d="m 206.473,522.5 h 105.054 c 1.642,0 2.973,5.373 2.973,12 0,6.627 -1.331,12 -2.973,12 H 206.473 c -1.642,0 -2.973,-5.373 -2.973,-12 0,-6.627 1.331,-12 2.973,-12 z m 105.054,0 c -1.642,0 -2.974,5.373 -2.974,12 0,6.627 1.332,12 2.974,12"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path14" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(216.754,539)"
+       id="text15">sensors' data</text>
+    <path
+       d="m 574.473,425.5 h 105.054 c 1.642,0 2.973,5.373 2.973,12 0,6.627 -1.331,12 -2.973,12 H 574.473 c -1.642,0 -2.973,-5.373 -2.973,-12 0,-6.627 1.331,-12 2.973,-12 z m 105.054,0 c -1.642,0 -2.973,5.373 -2.973,12 0,6.627 1.331,12 2.973,12"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path15" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(582.994,443)"
+       id="text16">flight control</text>
+    <path
+       d="m 574.473,521.5 h 105.054 c 1.642,0 2.973,5.373 2.973,12 0,6.627 -1.331,12 -2.973,12 H 574.473 c -1.642,0 -2.973,-5.373 -2.973,-12 0,-6.627 1.331,-12 2.973,-12 z m 105.054,0 c -1.642,0 -2.973,5.373 -2.973,12 0,6.627 1.331,12 2.973,12"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path16" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(584.828,538)"
+       id="text17">sensors' data</text>
+    <path
+       d="m 574.473,329.5 h 105.054 c 1.642,0 2.973,5.373 2.973,12 0,6.627 -1.331,12 -2.973,12 H 574.473 c -1.642,0 -2.973,-5.373 -2.973,-12 0,-6.627 1.331,-12 2.973,-12 z m 105.054,0 c -1.642,0 -2.973,5.373 -2.973,12 0,6.627 1.331,12 2.973,12"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path17" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(578.494,347)"
+       id="text18">vehicle setting</text>
+    <path
+       d="m 354.5,342.364 h -2.151 l -27.379,-0.339 h 0.006 -2.809 v -1.05 h 2.813 l 27.379,0.339 h -0.007 2.148 z m -31,3.136 -8,-4 8,-4 z"
+       fill="#191919"
+       id="path18" />
+    <path
+       d="m 354.5,390.025 h -32.333 v -1.05 H 354.5 Z m -31,3.475 -8,-4 8,-4 z"
+       fill="#191919"
+       id="path19" />
+    <path
+       d="m 354.5,438.025 h -32.333 v -1.05 H 354.5 Z m -31,3.475 -8,-4 8,-4 z"
+       fill="#191919"
+       id="path20" />
+    <path
+       d="m 315.5,485.975 h 32.333 v 1.05 H 315.5 Z m 31,-3.475 8,4 -8,4 z"
+       fill="#191919"
+       id="path21" />
+    <path
+       d="m 315.5,533.975 h 32.333 v 1.05 H 315.5 Z m 31,-3.475 8,4 -8,4 z"
+       fill="#191919"
+       id="path22" />
+    <path
+       d="m 427.167,436.975 h 40.666 v 1.05 h -40.666 z m 1.333,4.525 -8,-4 8,-4 z m 38,-8 8,4 -8,4 z"
+       fill="#191919"
+       id="path23" />
+    <path
+       d="m 540.5,340.975 h 23.333 v 1.05 H 540.5 Z m 22,-3.475 8,4 -8,4 z"
+       fill="#191919"
+       id="path24" />
+    <path
+       d="m 682.5,340.975 h 24.333 v 1.05 H 682.5 Z m 23,-3.475 8,4 -8,4 z"
+       fill="#191919"
+       id="path25" />
+    <path
+       d="m 192.743,262.5 h 217.514 c 13.389,0 24.243,-10.745 24.243,-24 0,-13.255 -10.854,-24 -24.243,-24 H 192.743 c -13.389,0 -24.243,10.745 -24.243,24 0,13.255 10.854,24 24.243,24 z"
+       stroke="#101843"
+       stroke-width="1.04987"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path26" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(246.569,243)"
+       id="text26">Windows Kernel</text>
+    <path
+       d="m 203.5,342.025 h -29.333 v -1.05 H 203.5 Z m -28,3.475 -8,-4 8,-4 z"
+       fill="#191919"
+       id="path27" />
+    <path
+       d="m 203.5,390.025 h -29.333 v -1.05 H 203.5 Z m -28,3.475 -8,-4 8,-4 z"
+       fill="#191919"
+       id="path28" />
+    <path
+       d="m 203.5,438.025 h -29.333 v -1.05 H 203.5 Z m -28,3.475 -8,-4 8,-4 z"
+       fill="#191919"
+       id="path29" />
+    <text
+       fill="#191919"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="16px"
+       transform="translate(479.076,235)"
+       id="text29">WSL2</text>
+    <path
+       d="m 168.5,486.314 h 1.295 -0.006 l 27.038,-0.324 0.013,1.05 -27.041,0.324 H 168.5 Z m 26.991,-3.796 8.009,3.982 -7.991,4.018 z"
+       fill="#191919"
+       id="path30" />
+    <path
+       d="m 168.5,534.314 h 1.295 -0.006 l 27.038,-0.324 0.013,1.05 -27.041,0.324 H 168.5 Z m 26.991,-3.796 8.009,3.982 -7.991,4.018 z"
+       fill="#191919"
+       id="path31" />
+    <path
+       d="m 302.025,269.167 v 15.666 h -1.05 v -15.666 z m -4.525,1.333 4,-8 4,8 z m 8,13 -4,8 -4,-8 z"
+       fill="#191919"
+       id="path32" />
+    <path
+       d="m 508.025,307.167 v 15.666 h -1.05 v -15.666 z m -4.525,1.333 4,-8 4,8 z m 8,13 -4,8 -4,-8 z"
+       fill="#191919"
+       id="path33" />
+    <path
+       d="m 748.025,307.167 v 15.666 h -1.05 v -15.666 z m -4.525,1.333 4,-8 4,8 z m 8,13 -4,8 -4,-8 z"
+       fill="#191919"
+       id="path34" />
+    <path
+       d="m 713.5,438.025 h -24.333 v -1.05 H 713.5 Z m -23,3.475 -8,-4 8,-4 z"
+       fill="#191919"
+       id="path35" />
+    <path
+       d="m 571.5,438.025 h -23.333 v -1.05 H 571.5 Z m -22,3.475 -8,-4 8,-4 z"
+       fill="#191919"
+       id="path36" />
+    <path
+       d="m 541.5,532.975 h 23.333 v 1.05 H 541.5 Z m 22,-3.475 8,4 -8,4 z"
+       fill="#191919"
+       id="path37" />
+    <path
+       d="m 682.5,532.975 h 24.333 v 1.05 H 682.5 Z m 23,-3.475 8,4 -8,4 z"
+       fill="#191919"
+       id="path38" />
+  </g>
+</svg>
